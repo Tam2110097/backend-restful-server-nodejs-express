@@ -1,0 +1,1 @@
+console.log("Hello word with Nguyen Minh Tam")
